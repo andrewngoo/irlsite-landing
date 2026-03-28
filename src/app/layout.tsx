@@ -15,6 +15,9 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "IRL | Bring Dating Back to Reality",
   description: "Monetized organic dating. Discover diverse date venues in Manhattan.",
+  icons: {
+    icon: "/iconcut.png",
+  },
 };
 
 export default function RootLayout({
